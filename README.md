@@ -1,6 +1,6 @@
 # Diff Tool Task
 
-**a utility program for comparing files**.
+**Utility program for comparing files**.
 
 <br>
 
